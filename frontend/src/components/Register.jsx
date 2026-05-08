@@ -51,7 +51,7 @@ function Register() {
       //start loading
       setLoading(true);
       //make HTTP POST req to create User in backend
-      let res = await axios.post('http://localhost:4000/common-api/users', formData, {
+      let res = await axios.post( "https://capstone-backend-379v.onrender.com/common-api/users", formData, {
   headers: {
     'Content-Type': 'multipart/form-data'
   }

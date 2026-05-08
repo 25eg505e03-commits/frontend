@@ -16,7 +16,7 @@ import {
 } from "../styles/common";
 import { useAuth } from "../store/authStore";
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:4000';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://capstone-backend-379v.onrender.com/author-api/article";
 
 function WriteArticles() {
   const navigate = useNavigate();
