@@ -1,9 +1,9 @@
-# 📝 Blog App Frontend
+# Blog App Frontend
 
 Frontend application for a full-stack Blog & Article Publishing Platform built using React and Vite. This application provides a responsive and user-friendly interface for users, authors, and admins to interact with the platform.
 
 
-# ✨ Features
+# Features
 
 * 🔐 User Authentication
 * 👤 Role-Based Access
@@ -11,17 +11,17 @@ Frontend application for a full-stack Blog & Article Publishing Platform built u
   * Admin
   * Author
   * User
-* 📝 Create, Edit & Delete Articles
-* 💬 Comment System
-* 📂 Category-Based Articles
-* ⚡ Fast Frontend using Vite
-* 🌐 React Router Navigation
-* 📱 Responsive Design
-* 🔄 Backend API Integration
+*  Create, Edit & Delete Articles
+*  Comment System
+*  Category-Based Articles
+*  Fast Frontend using Vite
+*  React Router Navigation
+*  Responsive Design
+*  Backend API Integration
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 | Technology       | Usage            |
 | ---------------- | ---------------- |
@@ -75,7 +75,7 @@ frontend/
 
 ---
 
-# 🚀 Installation & Setup
+#  Installation & Setup
 
 ## 1️⃣ Clone Repository
 
@@ -111,7 +111,7 @@ http://localhost:5173
 
 ---
 
-# 🔗 Backend Connection
+# Backend Connection
 
 Make sure backend server is running before starting frontend.
 
@@ -123,7 +123,7 @@ http://localhost:4000
 
 ---
 
-# 📦 Important Packages
+#  Important Packages
 
 ```bash
 npm install react-router-dom axios redux react-redux
@@ -151,7 +151,7 @@ npm install react-router-dom axios redux react-redux
 
 ---
 
-# 🔐 Authentication
+#  Authentication
 
 This project supports:
 
@@ -161,7 +161,7 @@ This project supports:
 
 ---
 
-# 🌍 Deployment
+#  Deployment
 
 Frontend deployed using:
 
@@ -172,11 +172,3 @@ Build command:
 ```bash
 npm run build
 ```
-
----
-
-# 👨‍💻 Author
-
-**Nigama Vydyula**
-
--
