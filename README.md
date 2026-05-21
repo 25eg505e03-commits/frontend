@@ -5,8 +5,8 @@ Frontend application for a full-stack Blog & Article Publishing Platform built u
 
 # Features
 
-* 🔐 User Authentication
-* 👤 Role-Based Access
+*  User Authentication
+*  Role-Based Access
 
   * Admin
   * Author
@@ -131,7 +131,7 @@ npm install react-router-dom axios redux react-redux
 
 ---
 
-# 📱 Pages & Components
+# Pages & Components
 
 | Component/Page      | Description          |
 | ------------------- | -------------------- |
